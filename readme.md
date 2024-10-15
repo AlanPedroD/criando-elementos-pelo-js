@@ -2,4 +2,4 @@
 <h2>Objetivo:</h2>
 <h3>Criar elemenetos HTML pelo JS</h3>
 
-### [Clique aqui para vis](https://alanpedrod.github.io/criando-elementos-pelo-js/)
+### [Clique aqui para visualizar no navegador](https://alanpedrod.github.io/criando-elementos-pelo-js/)
